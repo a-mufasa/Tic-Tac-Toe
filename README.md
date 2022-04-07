@@ -1,4 +1,4 @@
-##Tic-Tac-Toe
+# Tic-Tac-Toe
 
 To run the game you need to into the main "Tic-tac-toe" folder. For minmax, run "python3 Minmax/Main.py" in the terminal. For alpha-beta pruning, run "python3 AlphaBeta/Main.py". To confirm you are in the running the correct algorithm, check the first line printed into the terminal (will state the algorithm being used).
 
